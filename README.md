@@ -1,3 +1,7 @@
+# NOTE
+
+This is my solution for the udacity's C++ nanodegree project.
+
 # Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
